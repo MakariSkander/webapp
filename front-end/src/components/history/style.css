@@ -1,0 +1,12 @@
+.bck{
+    background: -webkit-linear-gradient(to bottom, #5DEBD7, #074173);
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #5DEBD7, #074173);}   
+.hero-img{
+    object-fit: cover;
+    height: 50vh;
+    width: 90%;
+}
+.table{
+    background-color: aliceblue;
+}
